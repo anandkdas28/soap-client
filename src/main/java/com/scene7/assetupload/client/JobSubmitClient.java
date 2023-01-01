@@ -35,9 +35,9 @@ public class JobSubmitClient  extends WebServiceGatewaySupport {
 
     private static AuthHeader getAuthHeader() {
         AuthHeader header = new AuthHeader();
-        header.setUser("partner.anand.kumardas@philips.com");
-        header.setPassword("z61a0C$KW");
-        header.setAppName("philipstest");
+        header.setUser("");
+        header.setPassword("");
+        header.setAppName("");
         header.setAppVersion("1");
         return header;
     }
