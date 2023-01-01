@@ -1,6 +1,6 @@
 package com.scene7.assetupload.client;
 
-import com.scene7.assetupload.ips.wsdl.AuthHeader;
+import com.scene7.assetupload.ips.wsdl.*;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.util.StringUtils;
